@@ -1,1 +1,1 @@
-My First directory called "git"
+My first directory called "git"
